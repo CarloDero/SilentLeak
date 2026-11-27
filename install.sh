@@ -72,4 +72,4 @@ echo -e "${DARK_GREEN}╚══════════════════�
 echo ""
 
 sleep 1
-open -a "Silent Leak" 2>/dev/null || open -a "SilentLeak"
+open -a "Silent Leak" 2>/dev/null || open -a "Silent Leak"
